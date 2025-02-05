@@ -9,10 +9,10 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
-- 🏦 I'm a Full Stack Developer specializing in React, Python, AWS, and PostgreSQL. I design and develop high-performance web applications, ensuring scalability and efficiency
+- 🏦 I'm a Full Stack Developer specializing in React, Python, AWS, Docker, and PostgreSQL. I design and develop high-performance web applications, ensuring scalability and efficiency
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.js```,``` .py```, ```.sql```
-- 🌱 I’m currently learning docker and kubernetes
+- 🌱 I’m currently learning kubernetes, Kafka, PySpark
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
 - 😄 Pronouns: He/Him
 - 📝 I regulary write articles on [hashnode](https://apoorvtyagi.tech/) (previously on [blogger](https://apoorvtyagi133.blogspot.com/))
